@@ -4,7 +4,7 @@ public class BoolTest {
 
     public static void main(String[] args) {
 
-        boolean b = 23 > 17;
+        boolean b = 17 < 13;
         b = false;
         System.out.println("b равно " + b);
         b = true;
@@ -12,7 +12,7 @@ public class BoolTest {
 
         if (b) ;
         System.out.println("Этoт код выполняется.");
-        System.out.println("23 > 17 равно " + (23 > 17));
+        System.out.println("17 < 13 равно " + (17 < 13));   //false
 
 
     }
