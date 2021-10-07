@@ -6,6 +6,6 @@ public class AutoArray {
 
         int month_days[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
-        System.out.println("В апреле " + month_days[3] + " дней.");
+        System.out.println("В hulise " + month_days[6] + " дней.");
     }
 }
