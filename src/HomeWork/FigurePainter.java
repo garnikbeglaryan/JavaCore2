@@ -4,6 +4,8 @@ public class FigurePainter {
 
     public static void main(String[] args) {
 
+
+
         int i;
         int j;
         int k;
@@ -15,9 +17,6 @@ public class FigurePainter {
             }
             System.out.println();
         }
-        for (k = 0; k > 5; k++) {
-            System.out.println(" *");}
 
-        }
     }
-
+}
