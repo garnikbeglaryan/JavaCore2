@@ -7,7 +7,7 @@ public class FigurePainter {
         int i;
         int j;
         for(i=0;i<4;i++){
-            for(j=0;j<i+1;j++)
+            for(j=i;j<4;j++)
 
                 System.out.print("* ");
 
