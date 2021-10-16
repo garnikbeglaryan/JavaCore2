@@ -16,7 +16,7 @@ public class StringSwitch {
                 System.out.println("три");
                 break;
             default:
-                System.out.println(("нe совпало)");
+
                 break;
         }
 
