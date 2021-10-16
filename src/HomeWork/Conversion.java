@@ -4,26 +4,16 @@ public class Conversion {
 
     public static void main(String[] args) {
 
-        byte b;
-        int i = 257;
-        double d = 323.142;
-        System.out.println("Преобразование типа int в тип byte.");
+        for (int i = 0; i < 4; i++) {
+            for (int j = 4; j > i; j--) {
+                System.out.print("  ");
+            }
 
-        b = (byte) i;
+            for (int k = 0; k <= i; k++) {
+                System.out.print(" *");
 
-        System.out.println("i и b " + i + " " + b);
-
-        System.out.println("Преобразование типа douЫe в тип int.");
-
-        i = (int) d;
-
-        System.out.println("d и i " + d + " " + i);
-
-        System.out.println("Преобразование типа douЫe в тип byte.");
-
-        b = (byte) d;
-
-        System.out.println("d и  b " + d + " " + b);
-
+            }
+            System.out.println();
+        }
     }
 }
