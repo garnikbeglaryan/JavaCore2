@@ -21,7 +21,7 @@ public class MissingBreak {
                     System.out.println("i меньше 10");
                     break ;
                     default :
-                        System.out.println(("i равно или больше 10");
+
 
 
 
