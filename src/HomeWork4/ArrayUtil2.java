@@ -13,10 +13,6 @@ public class ArrayUtil2 {
 //        }
 
 
-
-
-
-
         //Տպեք մասիվի ամենամեծ թիվը
 
 //        int[] array = {2, 6, 12, 24, 16, 17, 18, 45, 62, 47};
@@ -30,9 +26,6 @@ public class ArrayUtil2 {
 //        System.out.println("max = " + max);
 
 
-
-
-
         //Տպեք մասիվի ամենափոքրը թիվը
 
 //        int[] array = {2, 6, 12, 24, 16, 17, 18, 45, 62, 47};
@@ -43,10 +36,6 @@ public class ArrayUtil2 {
 //
 //        }
 //        System.out.println("min =" + min);
-
-
-
-
 
 
         //Տպեք մասիվի բոլոր զույգ էլեմենտները
@@ -64,9 +53,10 @@ public class ArrayUtil2 {
 
 
 //        int[] array = {2, 6, 12, 24, 16, 17, 18, 45, 62, 47};
-//        for (int i = out.println(array[i]);
-//
-//
+//        for (int i = 0; i < array.length; i++) {
+//            if (array[i] % 2 != 0)
+//                System.out.println(array[i]);
+//        }
 
 
 
@@ -85,10 +75,6 @@ public class ArrayUtil2 {
 //        System.out.println(count);
 
 
-
-
-
-
         //Տպեք կենտերի քանակը
 //
 //        int[] array = {2, 6, 12, 24, 16, 17, 18, 45, 62, 47};
@@ -100,10 +86,6 @@ public class ArrayUtil2 {
 //            }
 //        }
 //        System.out.println(count);
-
-
-
-
 
 
         //Տպեք մասիվի բոլոր թվերի միջին թվաբանականը
