@@ -64,12 +64,9 @@ public class ArrayUtil2 {
 
 
 //        int[] array = {2, 6, 12, 24, 16, 17, 18, 45, 62, 47};
-//        for (int i = 0; i < array.length; i++) {
-//            if (array[i] % 2 != 0)
-//                System.out.println(array[i]);
+//        for (int i = out.println(array[i]);
 //
-//        }
-
+//
 
 
 
@@ -111,6 +108,7 @@ public class ArrayUtil2 {
 
         //Տպեք մասիվի բոլոր թվերի միջին թվաբանականը
         //Տպեք մասիվի էլեմենտների գումարը։
+
 
 //        int[] array = {2, 6, 12, 24, 16, 17, 18, 45, 62, 47};
 //        double money = 0;
